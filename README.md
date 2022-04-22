@@ -1,7 +1,7 @@
 # Stock Trading Website 
 ## Project description: 
 A project from CS50 Introduction to Computer Science. 
-This website is a financial platform that allows users to register, query, buy, sell stocks.
+This website is a financial platform that allows users to register, query, buy and sell stocks.
 The data for the price of the stocks are updated in real-time using IEX.
 ## Structure:
 

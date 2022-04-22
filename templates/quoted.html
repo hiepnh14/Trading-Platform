@@ -1,0 +1,18 @@
+{% extends "layout.html" %}
+
+{% block title %}
+    Quoted
+{% endblock %}
+
+{% block main %}
+    <form action="/quote" method="post">
+        <p>
+            A share of {{ value.name }} ({{ value.symbol }}) costs {{ money }}.
+        </p>
+        <div class="form-group">
+            <input autocomplete="off" autofocus class="form-control" name="symbol" placeholder="Symbol" type="text">
+        </div>
+            <button class="btn btn-primary" type="submit">Quote</button>
+    </form>
+
+{% endblock %}

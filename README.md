@@ -2,7 +2,7 @@
 ## Project description: 
 A project from CS50 Introduction to Computer Science. 
 This website is a financial platform that allows users to register, query, buy and sell stocks.
-The price of the stocks are updated in real-time using IEX.
+The prices of the stocks are updated in real-time using IEX.
 ## Structure:
 
 ### Front-end:

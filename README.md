@@ -39,5 +39,6 @@ The finance.db database includes 3 tables:
 ```
 For more information: Visit [CS50/Finance](https://cs50.harvard.edu/x/2022/psets/9/finance/)
 
-## Author
-- [Hiep Nguyen](https://github.com/hiepnh14)
+[//]: # (## Author)
+
+[//]: # (- [Hiep Nguyen]&#40;https://github.com/hiepnh14&#41;)

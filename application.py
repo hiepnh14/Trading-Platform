@@ -88,7 +88,7 @@ def buy():
         # if isinstance(shares, int):
         #    return apology("Invalid shares", 400)
 
-
+        # Invalid number of shares
         if int(shares) <= 0:
             return apology("Invalid shares", 400)
 
